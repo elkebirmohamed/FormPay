@@ -1,0 +1,5 @@
+{
+  "name": "POS.AI Activation Portal",
+  "description": "Secure portal to enter Machine ID and Email to initiate the POS.AI activation process.",
+  "requestFramePermissions": []
+}
